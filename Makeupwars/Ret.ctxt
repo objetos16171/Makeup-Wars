@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ret
+comment0.text=\r\n\ Este\ es\ el\ objeto\ que\ te\ retorna\ al\ menu.\r\n\ \r\n\ @author\ (Xochil\ Villanueva)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Revisa\ si\ al\ objeto\ se\ le\ dio\ un\ click.\r\n
+comment2.params=
+comment2.target=void\ click()
+numComments=3

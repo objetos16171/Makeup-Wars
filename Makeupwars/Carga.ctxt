@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Carga
+comment0.text=\r\n\ Es\ la\ marca\ que\ te\ permite\ disparar.\r\n\ \r\n\ @author\ (Naomi\ Agui\u00F1aga)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Carga\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

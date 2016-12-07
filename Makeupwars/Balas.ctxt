@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Balas
+comment0.text=\r\n\ Esta\ es\ la\ clase\ para\ las\ balas.\r\n\ \r\n\ @author\ (Naomi\ Agui\u00F1aga)\ \r\n\ @version\ (1.2)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\nEl\ metodo\ act,\ llama\ el\ movimiento\ del\ objeto\ y\ revisar\ si\ ha\ \r\nchocado\ con\ algo.\r\n
+comment2.params=flag
+comment2.target=void\ checkDirection(int)
+comment2.text=\r\nRevisa\ la\ direccion\ que\ tiene\ jugador\ para\ poder\ salir\ en\ esa\ \r\ndireccion\r\n
+comment3.params=
+comment3.target=void\ collision()
+comment3.text=\r\nRevisa\ la\ colision\ con\ el\ borde\ del\ mundo.\r\n
+comment4.params=
+comment4.target=void\ balasoff()
+comment4.text=\r\nElimina\ el\ objeto\r\n
+numComments=5

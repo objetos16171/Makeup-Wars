@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Esmalte
+comment0.text=\r\n\ Esta\ es\ la\ clase\ que\ contiene\ puntos\ de\ este\ objeto.\r\n\ \r\n\ @author\ (Naomi\ Agui\u00F1aga)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=Esmalte()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act\r\n
+numComments=3

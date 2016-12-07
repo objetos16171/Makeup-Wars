@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Vida
+comment0.text=\r\n\ Clase\ para\ la\ imagen\ de\ vida\r\n\ \r\n\ @author\ (Naomi\ Agui\u00F1aga)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=void\ setHalf()
+comment1.text=\r\nCampia\ la\ imagen\ del\ objeto\ a\ vida\ media\ \r\n
+comment2.params=
+comment2.target=void\ setEmpty()
+comment2.text=\r\nCampia\ la\ imagen\ del\ objeto\ a\ vida\ vacia\r\n
+comment3.params=
+comment3.target=void\ setFull()
+comment3.text=\r\nCampia\ la\ imagen\ del\ objeto\ a\ vida\ llena\r\n
+numComments=4

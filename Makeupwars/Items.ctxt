@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Items
+comment0.text=\r\n\ Esta\ clase\ contiene\ lo\ relacionado\ con\ items,\ cuando\ el\ jugador\ los\r\n\ toca\ y\ la\ cantidad\ de\ puntos\ de\ deben\ sumar\r\n\ @author\ (Naomi\ Agui\u00F1aga)\ \r\n\ @version\ (2.3)\r\n
+comment1.params=
+comment1.target=Items()
+comment1.text=\r\n\ Actualiza\ banderas\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Revisa\ siempre\ cuando\ choca\ con\ un\ jugador\r\n
+comment3.params=
+comment3.target=void\ checkItems()
+comment3.text=\r\n\ Metodo\ que\ revisa\ si\ choco,\ le\ suma\ el\ puntaje\ y\ remueve\ el\ objeto.\r\n
+comment4.params=
+comment4.target=void\ addScorei()
+comment4.text=\r\n\ Suma\ al\ contador\r\n
+comment5.params=
+comment5.target=void\ remuveItem()
+comment5.text=\r\n\ Remueve\ el\ objeto\r\n
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Mirror
+comment0.text=\r\n\ Esta\ es\ la\ clase\ del\ objeto\ mirror\ que\ te\ permimte\ cambiar\ de\r\n\ nivel\r\n\ \r\n\ @author\ (Naomi\ Agui\u00F1aga\ &\ Xochil\ Villanueva)\ \r\n\ @version\ (1.3)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -Revisa\ si\ toco\ un\ jugador\r\n
+comment2.params=level
+comment2.target=void\ setLevel(int)
+comment2.text=\r\n\ Bandera\ de\ a\ que\ nivel\ va\ a\ saltar\r\n
+comment3.params=
+comment3.target=void\ checkPlayer()
+comment3.text=\r\n\ Hace\ el\ cambio\ de\ mundos,\ para\ los\ niveles\r\n
+numComments=4

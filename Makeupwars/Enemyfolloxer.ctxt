@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Enemyfolloxer
+comment0.text=\r\n\ Esta\ clase\ contiene\ el\ movimiento\ de\ seguir\ al\ usuario,\ la\ velocidad\ \r\n\ de\ reaccion,la\ posibilidad\ de\ cambio\ de\ direccion,la\ interseccion\ \r\n\ con\ las\ balas,\ y\ el\ cambio\ de\ lugar\ cuando\ choca\ con\ el\ jugador.\r\n\ @author\ (Naomi\ Agui\u00F1aga)\ \r\n\ @version\ (1.8)\r\n
+comment1.params=
+comment1.target=int\ follow()
+comment1.text=\r\n\ Metodo\ que\ determina\ la\ direccion\ que\ debe\ llevar\ para\ seguir\ al\r\n\ jugador,\ asi\ como\ su\ velocidad\ de\ reaccion.\r\n
+comment2.params=
+comment2.target=Player\ lookingAt()
+comment2.text=\r\n\ Metodo\ encargado\ de\ hacer\ una\ lista\ con\ los\ objetos\ tipo\ player,que\r\n\ estan\ en\ un\ rango\ de\ 530.\r\n
+comment3.params=
+comment3.target=void\ timerDir()
+comment3.text=\r\n\ Timer,\ para\ la\ velocidad\ de\ reaccion\ de\ el\ enemigo.\r\n
+comment4.params=
+comment4.target=boolean\ setMove()
+comment4.text=\r\n\ Actualiza\ las\ banderas\ que\ permiten\ el\ movimiento.\r\n
+comment5.params=
+comment5.target=boolean\ checkfireCD()
+comment5.text=\r\n\ Revisa\ si\ al\ enemigo\ C\ y\ D\ fueron\ tocados\ por\ una\ bala.\r\n
+comment6.params=
+comment6.target=void\ setUbicacion()
+comment6.text=\r\n\ Cambia\ la\ ubicacion,\ al\ chocar\ con\ el\ jugador.\r\n
+numComments=7

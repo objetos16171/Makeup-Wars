@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ayuda
+comment0.text=\r\n\ Es\ el\ boton\ que\ te\ permite\ visualizar\ la\ ayuda.\r\n\ \r\n\ @author\ (Xochil\ Villanueva)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Revisa\ si\ se\ dio\ click\ al\ objeto.\r\n
+comment2.params=
+comment2.target=void\ click()
+numComments=3

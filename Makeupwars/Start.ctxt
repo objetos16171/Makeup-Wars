@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Start
+comment0.text=\r\n\ Boton\ de\ star,\ es\ para\ iniciar\ el\ juego.\r\n\ \r\n\ @author\ (Xochil\ Villanueva)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Start\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ click()
+numComments=3
